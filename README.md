@@ -1,8 +1,8 @@
 ## INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
-## DATE :
-## NAME :																			             
-## ROLLNUMBER :
-## DEPARTMENT 
+## DATE :27/07/26
+## NAME :	HEMAVARATHAN S																		             
+## ROLLNUMBER :212225240050
+## DEPARTMENT : AIML
 
 
 ## AIM:
@@ -62,15 +62,6 @@ FIGURE -03
 
 
 ## PROGRAM 
- 
- 
-
-
-
-
-
-
-
 
 
  
@@ -80,6 +71,8 @@ FIGURE -03
 
 
 ## OUTPUT OF SIMULATION :
+<img width="778" height="760" alt="image" src="https://github.com/user-attachments/assets/ff495246-fa80-4ff8-970d-acc7372c6a5b" />
+
 
 [My image](username.github.com/repository/img/image.jpg)
 
