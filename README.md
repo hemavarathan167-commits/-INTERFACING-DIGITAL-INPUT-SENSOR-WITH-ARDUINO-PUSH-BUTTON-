@@ -1,3 +1,4 @@
+
 ## INTERFACING DIGITAL INPUT SENSOR WITH ARDUINO PUSH BUTTON
 ## DATE :27/07/26
 ## NAME :	HEMAVARATHAN S																		             
@@ -74,5 +75,5 @@ FIGURE -03
 <img width="778" height="760" alt="image" src="https://github.com/user-attachments/assets/ff495246-fa80-4ff8-970d-acc7372c6a5b" />
 
 
-[My image](username.github.com/repository/img/image.jpg)
+<img width="1046" height="662" alt="WhatsApp Image 2026-07-28 at 3 11 45 PM 3" src="https://github.com/user-attachments/assets/7f911090-e206-49fd-a40b-146154212827" />
 
